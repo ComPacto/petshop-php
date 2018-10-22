@@ -1,0 +1,15 @@
+{
+    "name": "mullergoncalves/petshop-bd",
+    "description": "Cadastro de petshop com PDO",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Müller",
+            "email": "mrmiller94@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "4.1.3",
+        "components/jquery": "^3.3"
+    }
+}
